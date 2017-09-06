@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        print("Hi Vlad Your 3 Million EUR is closer to YOU!")
+        print("Your goal 3MillionEUR is even closer!")
     }
 
     override func didReceiveMemoryWarning() {
